@@ -120,10 +120,10 @@ python Backend/app.py
 http://127.0.0.1:5000/
 
 ## 📈 Future Improvements
-🔍- Improve model accuracy using advanced architectures (EfficientNet, Vision Transformers)
-🧪-Enhance preprocessing (contrast enhancement, augmentation)
-☁ -Deploy on cloud (AWS / Render / Hugging Face Spaces)
-📱-Add mobile-friendly UI
+🔍Improve model accuracy using advanced architectures (EfficientNet, Vision Transformers)  
+🧪Enhance preprocessing (contrast enhancement, augmentation)  
+☁ Deploy on cloud (AWS / Render / Hugging Face Spaces)  
+📱Add mobile-friendly UI
 
 ## 🤝 Contributing
 
