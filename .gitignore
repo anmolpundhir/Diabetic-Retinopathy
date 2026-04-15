@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Dataset
+Dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.h5
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env variables
+.env
+
+# Flask uploads
+uploads/
