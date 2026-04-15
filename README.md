@@ -63,15 +63,15 @@ The system allows users to upload retinal images and receive **real-time predict
 ---
 
 ## 📂 Project Structure
-├── model/
-│ ├── cnn_model.py # Model architecture & training
-│ ├── model.h5 # Trained model
-├── Backend/
-│ ├── app.py # Flask backend
-├── Frontend/
-│ ├── index.html # UI
-│ ├── styles.css
-├── requirements.txt
+├── model/  
+│ ├── cnn_model.py # Model architecture & training  
+│ ├── model.h5 # Trained model  
+├── Backend/  
+│ ├── app.py # Flask backend  
+├── Frontend/  
+│ ├── index.html # UI  
+│ ├── styles.css  
+├── requirements.txt  
 └── README.md
 
 
@@ -132,8 +132,8 @@ Feel free to fork the repo and submit pull requests.
 
 ## 📚 Acknowledgment
 
-Based on the research paper:
-"A Deep Convolutional Neural Network for Diabetic Retinopathy Detection via Mining Local and Long-Range Dependence"
+Based on the research paper:  
+"A Deep Convolutional Neural Network for Diabetic Retinopathy Detection via Mining Local and Long-Range Dependence"  
 by Xiaoling Luo et al.
 
 ## 📜 License
@@ -144,5 +144,5 @@ This project is licensed under the MIT License.
 
 For queries or suggestions:
 
-Open an issue on GitHub
+Open an issue on GitHub  
 Or connect via email
